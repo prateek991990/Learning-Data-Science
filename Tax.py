@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
+# Calculation of Tax
 UserSalary = int(input('Enter Your Monthly Salary'))
 AnnualSalary = (UserSalary * 12)
 if AnnualSalary < 250000:
@@ -26,13 +21,6 @@ if Tax > 200000:
     print('Please be in Touch with a Finacial Advisor')
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
